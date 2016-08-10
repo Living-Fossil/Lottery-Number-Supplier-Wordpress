@@ -1,5 +1,6 @@
 # Lottery-Number-Supplier-Wordpress
 Overview: This is a wordpress plugin that enables one to get 'Quick Pick' numbers for playing in selected lotteries. 
+
 Introduction: The approval this past August 1st by WP for addition to their directory at WordPress.org of my new plugin ‘Lottery Number Supplier ‘ enables me to announce its availability for general use.
 
 Summary:  This free plugin enables the subscribers of a WordPress blog or site to get 'Quick Pick' numbers that are suitable for playing in a selection of some ten of the biggest and most popular multi-state lotteries.
